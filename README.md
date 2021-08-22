@@ -1,7 +1,7 @@
 ## 💻 Hi, I'm Ayla Rodrigues
 >Don't stop until you're proud
 <div>
-  <img src = "https://media.discordapp.net/attachments/817092151082483763/879116804151201832/perfilgit.gif" width = "100px" align = "right">
+  <img src="https://media.discordapp.net/attachments/817092151082483763/879116804151201832/perfilgit.gif" width = "100px" align = "center">
   <a href="https://github.com/AylaRodrigues">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AylaRodrigues&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="126em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AylaRodrigues&layout=compact&langs_count=7&theme=jolly"/>
