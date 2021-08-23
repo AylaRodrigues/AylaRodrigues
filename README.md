@@ -1,22 +1,45 @@
-## 💻 Hi, I'm Ayla Rodrigues
+<h2><img src ="https://img.icons8.com/?id=116827&size=2x&color=000000" height="25" width ="25" > Hi, I'm Ayla Rodrigues </h2>
+
 >Don't stop until you're proud
 
-<div>
-  <img src="https://media.discordapp.net/attachments/817092151082483763/879116804151201832/perfilgit.gif" width = "150px" align = "right">
-  <a href="https://github.com/AylaRodrigues">
+```C
+void Ayla(me){
+
+  char pronouns[8]= "she,her";
+  char coding[50]= "C, HTML, CSS";
+  char design[50]= "Figma, Canva, Photoshop, CorelDraw, Autocad";
+  char CurrentlyLearning[50]= "Kotlin, React";
+ 
+}
+```
+<img src="https://media.discordapp.net/attachments/817092151082483763/879116804151201832/perfilgit.gif" width = "150px" align = "right">
+<a href="https://github.com/AylaRodrigues">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AylaRodrigues&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="126em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AylaRodrigues&layout=compact&langs_count=7&theme=jolly"/>
- </div>
+  </a>
   
+<h3>Reach me out:</h3>
+  <a href="https://www.linkedin.com/in/rodrigues-ayla/" target ="_blank">
+  <img align="center" alt="LinkedIn" height="35" width ="35" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/linkedin/linkedin-plain.svg">
+  <a href="https://www.instagram.com/4yla_rodrigues/" target ="_blank">
+  <img align="center" alt="Instagram" height="40" width ="40" src="https://img.icons8.com/?id=dz63urxyxSdO&size=2x&color=000000">
+</a>
+  
+  <h3>Skills:</h3>
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width ="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width ="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C" height="30" width ="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-plain.svg">
-  <img align="center" alt="Canva" height="30" width ="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/canva/canva-original.svg">
-  <img align="center" alt="Figma" height="30" width ="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/figma/figma-original.svg">
-  <img align="center" alt="AutoCad" height="30" src="https://img.icons8.com/fluency/2x/autocad.png">
+  <img align="center" alt="HTML" height="40" width ="40" src="https://img.icons8.com/?id=1043&size=2x&color=000000">
+  <img align="center" alt="CSS" height="40" width ="40" src="https://img.icons8.com/?id=9nmz9TYzN8iO&size=2x&color=000000">
+  <img align="center" alt="C" height="35" width ="35" src="https://img.icons8.com/?id=111021&size=2x&color=000000">
+  <img align="center" alt="Canva" height="42" width ="42" src="https://img.icons8.com/?id=ira259PyThHV&size=2x&color=000000">
+  <img align="center" alt="Figma" height="35" width ="35" src="https://img.icons8.com/?id=amXjtNWVYSKP&size=2x&color=000000">
+  <img align="center" alt="AutoCad" height="30" width ="30" src="https://img.icons8.com/?id=FSnJPuMw8eeF&size=2x&color=000000">
+  <img align="center" alt="Photoshop" height="40" width ="40" src="https://img.icons8.com/?id=2916&size=2x&color=000000">
+  <img align="center" alt="CorelDraw" height="35" width ="35" src="https://img.icons8.com/?id=77638&size=2x&color=000000">
 </div>
-  
+
+##
+
+
    ##
   
 ![Snake animation](https://github.com/AylaRodrigues/AylaRodrigues/blob/output/github-contribution-grid-snake.svg)
