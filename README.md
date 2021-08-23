@@ -21,11 +21,14 @@ void Ayla(me){
   <img align="center" alt="HTML" height="40" width ="40" src="https://img.icons8.com/?id=1043&size=2x&color=000000">
   <img align="center" alt="CSS" height="40" width ="40" src="https://img.icons8.com/?id=9nmz9TYzN8iO&size=2x&color=000000">
   <img align="center" alt="C" height="35" width ="35" src="https://img.icons8.com/?id=111021&size=2x&color=000000">
+  <img align="center" alt="Kotlin" height="35" width ="35" src="https://img.icons8.com/?id=xlklWoCAXeC6&size=2x&color=000000">
+  <img align="center" alt="React" height="35" width ="35" src="https://img.icons8.com/?id=fdBWYEwusJbm&size=2x&color=000000">
   <img align="center" alt="Canva" height="42" width ="42" src="https://img.icons8.com/?id=ira259PyThHV&size=2x&color=000000">
   <img align="center" alt="Figma" height="35" width ="35" src="https://img.icons8.com/?id=amXjtNWVYSKP&size=2x&color=000000">
   <img align="center" alt="AutoCad" height="30" width ="30" src="https://img.icons8.com/?id=FSnJPuMw8eeF&size=2x&color=000000">
   <img align="center" alt="Photoshop" height="40" width ="40" src="https://img.icons8.com/?id=2916&size=2x&color=000000">
   <img align="center" alt="CorelDraw" height="35" width ="35" src="https://img.icons8.com/?id=77638&size=2x&color=000000">
+
   <img src="https://media.discordapp.net/attachments/817092151082483763/879116804151201832/perfilgit.gif" width = "160px" align = "right">
 </div>
 
