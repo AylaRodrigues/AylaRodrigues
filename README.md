@@ -8,23 +8,23 @@ void Ayla(me){
   char pronouns[8]= "she,her";
   char coding[50]= "C, HTML, CSS";
   char design[50]= "Figma, Canva, Photoshop, CorelDraw, Autocad";
-  char CurrentlyLearning[50]= "Kotlin, React";
+  char currentlyLearning[50]= "Kotlin, React";
  
 }
 ```
+---
+
 <img src="https://media.discordapp.net/attachments/817092151082483763/879116804151201832/perfilgit.gif" width = "150px" align = "right">
 <a href="https://github.com/AylaRodrigues">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AylaRodrigues&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="126em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AylaRodrigues&layout=compact&langs_count=7&theme=jolly"/>
   </a>
-  
+    
 <h3>Reach me out:</h3>
-  <a href="https://www.linkedin.com/in/rodrigues-ayla/" target ="_blank">
-  <img align="center" alt="LinkedIn" height="35" width ="35" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/linkedin/linkedin-plain.svg">
-  <a href="https://www.instagram.com/4yla_rodrigues/" target ="_blank">
-  <img align="center" alt="Instagram" height="40" width ="40" src="https://img.icons8.com/?id=dz63urxyxSdO&size=2x&color=000000">
-</a>
   
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-9370DB?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigues-ayla/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-9370DB?style=flat&labelColor=9370DB&logo=instagram&logoColor=white)](https://www.instagram.com/4yla_rodrigues/)
+
   <h3>Skills:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width ="40" src="https://img.icons8.com/?id=1043&size=2x&color=000000">
@@ -39,8 +39,6 @@ void Ayla(me){
 
 ##
 
-
-   ##
   
 ![Snake animation](https://github.com/AylaRodrigues/AylaRodrigues/blob/output/github-contribution-grid-snake.svg)
     
