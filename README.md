@@ -1,4 +1,4 @@
-<h2><img src ="https://img.icons8.com/?id=116827&size=2x&color=000000" height="25" width ="25" > Hi, I'm Ayla Rodrigues </h2>
+<h2><img src ="https://img.icons8.com/?id=116827&size=2x&color=000000" height="25" width ="25"> Hi, I'm Ayla Rodrigues </h2>
 
 ```C
 void Ayla(me){
@@ -12,8 +12,8 @@ void Ayla(me){
 ```
 <div>
 <a href="https://github.com/AylaRodrigues">
-  <img align "left" height="140em" src="https://github-readme-stats.vercel.app/api?username=AylaRodrigues&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img align "right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AylaRodrigues&layout=compact&langs_count=7&theme=jolly"/>
+  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=AylaRodrigues&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AylaRodrigues&layout=compact&langs_count=7&theme=jolly"/>
   </a>
  </div>
 <h3> </h3>
