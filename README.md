@@ -1,7 +1,5 @@
 <h2><img src ="https://img.icons8.com/?id=116827&size=2x&color=000000" height="25" width ="25" > Hi, I'm Ayla Rodrigues </h2>
 
->Don't stop until you're proud
-
 ```C
 void Ayla(me){
 
