@@ -13,13 +13,11 @@ void Ayla(me){
 }
 ```
 ---
-<div>
 <img src="https://media.discordapp.net/attachments/817092151082483763/879116804151201832/perfilgit.gif" width = "150px" align = "right">
 <a href="https://github.com/AylaRodrigues">
-  <img height="140em" align = "left" src="https://github-readme-stats.vercel.app/api?username=AylaRodrigues&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="138em"  align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AylaRodrigues&layout=compact&langs_count=7&theme=jolly"/>
-  </a><br>
- </div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AylaRodrigues&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="126em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AylaRodrigues&layout=compact&langs_count=7&theme=jolly"/>
+  </a>
   
 
   <div style="display:inline_block">
