@@ -19,13 +19,13 @@ void Ayla(me){
   <img height="126em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AylaRodrigues&layout=compact&langs_count=7&theme=jolly"/>
   </a>
   
-
-  <div style="display:inline_block">
+<h4>Reach me out:</h4>
+  
 
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-2B0E4D?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigues-ayla/)
   [![Instagram](https://img.shields.io/badge/-Instagram-2B0E4D?style=flat&labelColor=2B0E4D&logo=instagram&logoColor=white)](https://www.instagram.com/4yla_rodrigues/)
   
-  </div>
+
 
   <h4>Skills:</h4>
 <div style="display: inline_block">
