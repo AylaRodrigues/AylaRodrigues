@@ -1,4 +1,4 @@
-<h2><img src ="https://img.icons8.com/?id=116827&size=2x&color=000000" height="25" width ="25"> Hi, I'm Ayla Rodrigues </h2>
+<h2 align="center"><img src ="https://img.icons8.com/?id=116827&size=2x&color=000000" height="25" width ="25"> Hi, I'm Ayla Rodrigues </h2>
 
 - I live in :brazil:
 - I'm a Computer Science undergraduate
@@ -41,6 +41,7 @@ void Ayla(me){
  <div>
   <a href="https://www.linkedin.com/in/rodrigues-ayla/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-2B0E4D?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/4yla_rodrigues/" target="_blank"><img align="center"src="https://img.shields.io/badge/-Instagram-2B0E4D?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
   
 ![Snake animation](https://github.com/AylaRodrigues/AylaRodrigues/blob/output/github-contribution-grid-snake.svg)
     
