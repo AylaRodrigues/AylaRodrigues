@@ -1,15 +1,11 @@
 <h2><img src ="https://img.icons8.com/?id=116827&size=2x&color=000000" height="25" width ="25"> Hi, I'm Ayla Rodrigues </h2>
 
-```C
-void Ayla(me){
+- I live in :brazil:
+- I'm a Computer Science undergraduate
+- Student at Federal Fluminense University (UFF) :student:
 
-  char pronouns[8]= "she,her";
-  char coding[50]= "C, HTML, CSS";
-  char design[50]= "Figma, Canva, Photoshop, CorelDraw, Autocad";
-  char currentlyLearning[50]= "Kotlin, React";
- 
-}
-```
+
+
 <div>
 <a href="https://github.com/AylaRodrigues">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AylaRodrigues&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
@@ -33,10 +29,7 @@ void Ayla(me){
 </div>
 
 ##
-  
- <div>
-  <a href="https://www.linkedin.com/in/rodrigues-ayla/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-2B0E4D?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/4yla_rodrigues/" target="_blank"><img align="center"src="https://img.shields.io/badge/-Instagram-2B0E4D?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
 
 
 ![Snake animation](https://github.com/AylaRodrigues/AylaRodrigues/blob/output/github-contribution-grid-snake.svg)
