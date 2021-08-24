@@ -2,9 +2,17 @@
 
 - I live in :brazil:
 - I'm a Computer Science undergraduate
-- Student at Federal Fluminense University (UFF) :student:
+- Student at Federal Fluminense University (UFF) 
 
-
+```C
+void Ayla(me){
+  char pronouns[8]= "she,her";
+  char coding[50]= "C, HTML, CSS";
+  char design[50]= "Figma, Canva, Photoshop, CorelDraw, Autocad";
+  char currentlyLearning[50]= "Kotlin, React";
+ 
+}
+```
 
 <div>
 <a href="https://github.com/AylaRodrigues">
@@ -29,8 +37,6 @@
 </div>
 
 ##
- 
-
 
 ![Snake animation](https://github.com/AylaRodrigues/AylaRodrigues/blob/output/github-contribution-grid-snake.svg)
     
