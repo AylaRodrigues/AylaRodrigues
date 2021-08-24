@@ -38,8 +38,10 @@ void Ayla(me){
 
 ##
 
+ <div>
+  <a href="https://www.linkedin.com/in/rodrigues-ayla/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-2B0E4D?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/4yla_rodrigues/" target="_blank"><img align="center"src="https://img.shields.io/badge/-Instagram-2B0E4D?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
 ![Snake animation](https://github.com/AylaRodrigues/AylaRodrigues/blob/output/github-contribution-grid-snake.svg)
     
  </div>
-  
-
