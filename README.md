@@ -1,5 +1,5 @@
 <h2 align="center"><img src ="https://img.icons8.com/?id=116827&size=2x&color=000000" height="25" width ="25"> Hi, I'm Ayla Rodrigues </h2>
-
+ 
 - I live in :brazil:
 - I'm a Computer Science undergraduate
 - Student at Federal Fluminense University (UFF) 
@@ -10,7 +10,7 @@
 void Ayla(me){
   char pronouns[8]= "she,her";
   char coding[50]= "C, HTML, CSS";
-  char design[50]= "Figma, Canva, Photoshop, CorelDraw, Autocad";
+  char design[50]= "Figma, Canva, Photoshop, CorelDraw, Autocad, InkScape";
   char currentlyLearning[50]= "Kotlin, React", "Haskell";
  
 }
@@ -37,9 +37,11 @@ void Ayla(me){
   <img align="center" alt="AutoCad" height="30" width ="30" src="https://img.icons8.com/?id=FSnJPuMw8eeF&size=2x&color=000000">
   <img align="center" alt="Photoshop" height="40" width ="40" src="https://img.icons8.com/?id=2916&size=2x&color=000000">
   <img align="center" alt="CorelDraw" height="35" width ="35" src="https://img.icons8.com/?id=77638&size=2x&color=000000">
+  <img align="center" alt="InkScape" height="35" width ="35" src="https://img.icons8.com/?id=62768&size=2x&color=000000">
 
   <img src="https://media.discordapp.net/attachments/817092151082483763/879116804151201832/perfilgit.gif" width = "160px" align = "right">
 </div>
+
 
 ##
 
