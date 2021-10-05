@@ -7,7 +7,7 @@
 <h5> 
   
  <div>
-  <img height="150em" src="img/carbon.png"/>
+  <img height="150em" src="img/carbon(1).png"/>
  </div>
 
 </h5>
