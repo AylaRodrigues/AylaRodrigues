@@ -5,10 +5,16 @@
 - Student at Federal Fluminense University (UFF) 
 
 <h5> 
-  
- <div>
-  <img height="150em" src="img/carbon (1).png"/>
- </div>
+ 
+```C
+void Ayla(me){
+  char pronouns[8]= "she,her";
+  char coding[50]= "C, HTML, CSS";
+  char design[50]= "Figma, Canva, Photoshop, CorelDraw, Autocad, InkScape";
+  char currentlyLearning[50]= "Kotlin, React, Haskell";
+ 
+}
+```
 
 </h5>
 
