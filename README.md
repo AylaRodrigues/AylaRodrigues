@@ -46,9 +46,9 @@ void Ayla(me){
 ##
 
  <div>
-  <a height="20em" href="https://www.linkedin.com/in/rodrigues-ayla/" target="_blank"><img align="center" src="image/insta.svg" target="_blank"></a> 
-  <a height="20em" href="https://www.instagram.com/4yla_rodrigues/" target="_blank"><img align="center"src="image/linkedIn.svg"_blank"></a>
-  <a href="" target="_blank"><img align="center"src="image/website.svg"_blank"></a>
+  <a href="https://www.linkedin.com/in/rodrigues-ayla/" target="_blank"><img height="50em"align="center" src="image/insta.svg" target="_blank"></a> 
+  <a href="https://www.instagram.com/4yla_rodrigues/" target="_blank"><img height="50em" align="center"src="image/linkedIn.svg"_blank"></a>
+  <a href="" target="_blank"><img height="50em" align="center"src="image/website.svg"_blank"></a>
   
   
 ![Snake animation](https://github.com/AylaRodrigues/AylaRodrigues/blob/output/github-contribution-grid-snake.svg)
