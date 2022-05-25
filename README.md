@@ -23,6 +23,7 @@ void Ayla(me){
   <img height="125em" src="https://github-readme-stats.vercel.app/api?username=AylaRodrigues&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
   <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AylaRodrigues&layout=compact&langs_count=7&theme=kacho_ga"/>
   </a>
+  <img src="https://cdn.discordapp.com/attachments/817092151082483763/886313385564721202/xyz.gif" width = "125em" align = "right">
  </div>
 <h3> </h3>
 <div style="display: inline_block">
@@ -39,7 +40,6 @@ void Ayla(me){
   <img align="center" alt="CorelDraw" height="35" width ="35" src="https://img.icons8.com/?id=77638&size=2x&color=000000">
   <img align="center" alt="InkScape" height="35" width ="35" src="https://img.icons8.com/?id=62768&size=2x&color=000000">
 
-  <img src="https://cdn.discordapp.com/attachments/817092151082483763/886313385564721202/xyz.gif" width = "160px" align = "right">
 </div>
 
 
@@ -48,7 +48,7 @@ void Ayla(me){
  <div>
   <a href="https://www.linkedin.com/in/rodrigues-ayla/" target="_blank"><img height="45em"align="center" src="image/linkedIn.svg" target="_blank"></a> 
   <a href="https://www.instagram.com/4yla_rodrigues/" target="_blank"><img height="45em" align="center"src="image/insta.svg"_blank"></a>
-  
+ 
   
   
 ![Snake animation](https://github.com/AylaRodrigues/AylaRodrigues/blob/output/github-contribution-grid-snake.svg)
