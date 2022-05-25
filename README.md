@@ -23,7 +23,7 @@ void Ayla(me){
   <img height="125em" src="https://github-readme-stats.vercel.app/api?username=AylaRodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AylaRodrigues&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-  <img src="https://cdn.discordapp.com/attachments/817092151082483763/886313385564721202/xyz.gif" width = "125em" align = "right">
+  <img src="https://cdn.discordapp.com/attachments/817092151082483763/979161766950993951/gifpink.gif" width = "125em" align = "right">
  </div>
 <h3> </h3>
 <div style="display: inline_block">
