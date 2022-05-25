@@ -20,8 +20,8 @@ void Ayla(me){
 
 <div>
 <a href="https://github.com/AylaRodrigues">
-  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=AylaRodrigues&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AylaRodrigues&layout=compact&langs_count=7&theme=panda"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=AylaRodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AylaRodrigues&layout=compact&langs_count=7&theme=dracula"/>
   </a>
   <img src="https://cdn.discordapp.com/attachments/817092151082483763/886313385564721202/xyz.gif" width = "125em" align = "right">
  </div>
@@ -46,8 +46,8 @@ void Ayla(me){
 ##
 
  <div>
-  <a href="https://www.linkedin.com/in/rodrigues-ayla/" target="_blank"><img height="45em"align="center" src="image/linkedIn.svg" target="_blank"></a> 
-  <a href="https://www.instagram.com/4yla_rodrigues/" target="_blank"><img height="45em" align="center"src="image/insta.svg"_blank"></a>
+  <a href="https://www.linkedin.com/in/rodrigues-ayla/" target="_blank">Instagram</a> 
+  <a href="https://www.instagram.com/4yla_rodrigues/" target="_blank">LinkedIn</a>
  
   
   
