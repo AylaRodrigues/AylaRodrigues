@@ -1,22 +1,10 @@
 <h2 align="center"><img src ="https://img.icons8.com/?id=116827&size=2x&color=000000" height="25" width ="25"> Hi, I'm Ayla Rodrigues </h2>
+
+[![](https://visitcount.itsvg.in/api?id=AylaRodrigues&icon=5&color=10)](https://visitcount.itsvg.in)
  
 - I live in :brazil:
 - I'm a Computer Science undergraduate
 - Student at Federal Fluminense University (UFF) 
-
-<h4> 
- 
-```C
-void Ayla(me){
-  char pronouns[8]= "she,her";
-  char coding[50]= "C, HTML, CSS";
-  char design[50]= "Figma, Canva, Photoshop, CorelDraw, Autocad, InkScape";
-  char currentlyLearning[50]= "Kotlin, React, Haskell";
- 
-}
-```
-
-</h4>
 
 <div>
 <a href="https://github.com/AylaRodrigues">
@@ -26,22 +14,10 @@ void Ayla(me){
   <img src="https://cdn.discordapp.com/attachments/817092151082483763/979161766950993951/gifpink.gif" width = "125em" align = "right">
  </div>
 <h3> </h3>
-<div style="display: inline_block">
-  <img align="center" alt="HTML" height="40" width ="40" src="https://img.icons8.com/?id=1043&size=2x&color=000000">
-  <img align="center" alt="CSS" height="40" width ="40" src="https://img.icons8.com/?id=9nmz9TYzN8iO&size=2x&color=000000">
-  <img align="center" alt="C" height="35" width ="35" src="https://img.icons8.com/?id=111021&size=2x&color=000000">
-  <img align="center" alt="Kotlin" height="35" width ="35" src="https://img.icons8.com/?id=xlklWoCAXeC6&size=2x&color=000000">
-  <img align="center" alt="React" height="35" width ="35" src="https://img.icons8.com/?id=fdBWYEwusJbm&size=2x&color=000000">
-  <img align="center" alt="Haskell" height="35" width ="35" src="https://img.icons8.com/?id=W5tDlZIZgAHJ&size=2x&color=000000">
-  <img align="center" alt="Canva" height="42" width ="42" src="https://img.icons8.com/?id=ira259PyThHV&size=2x&color=000000">
-  <img align="center" alt="Figma" height="35" width ="35" src="https://img.icons8.com/?id=amXjtNWVYSKP&size=2x&color=000000">
-  <img align="center" alt="AutoCad" height="30" width ="30" src="https://img.icons8.com/?id=FSnJPuMw8eeF&size=2x&color=000000">
-  <img align="center" alt="Photoshop" height="40" width ="40" src="https://img.icons8.com/?id=2916&size=2x&color=000000">
-  <img align="center" alt="CorelDraw" height="35" width ="35" src="https://img.icons8.com/?id=77638&size=2x&color=000000">
-  <img align="center" alt="InkScape" height="35" width ="35" src="https://img.icons8.com/?id=62768&size=2x&color=000000">
 
-</div>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=plastic&logo=scala&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=plastic&logo=haskell&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
 
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=plastic&logo=inkscape&logoColor=080A13) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
 ##
 
@@ -54,3 +30,12 @@ void Ayla(me){
 ![Snake animation](https://github.com/AylaRodrigues/AylaRodrigues/blob/output/github-contribution-grid-snake.svg)
     
  </div>
+ 
+ 
+
+
+
+
+---
+
+
