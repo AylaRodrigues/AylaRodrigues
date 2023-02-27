@@ -15,7 +15,6 @@
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
-   <img align="right" alt="cute-pic" height="150" src="https://cdn.discordapp.com/attachments/817092151082483763/979807484535504936/Alexi_vous_a_envoye_une_Epingle_.jpg?width=468px">
 </div>
 
 ##
