@@ -25,12 +25,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/4yla_rodrigues/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&iconColor=white")](mailto:4ylarodrigues@gmail.com)
 
-<div>
-  <a href="https://github.com/AylaRodrigues">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AylaRodrigues&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AylaRodrigues&layout=compact&langs_count=7&theme=monokai"/>
-  </a>
-</div>
+
  
 ![Snake animation](https://github.com/AylaRodrigues/AylaRodrigues/blob/output/github-contribution-grid-snake.svg)
     
